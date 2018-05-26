@@ -1,0 +1,6 @@
+This is a test file 
+
+public void Show()
+{
+	console.println("line 1");
+}
